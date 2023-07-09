@@ -46,7 +46,7 @@ async def root():
     return data
 
 
-@app.get("/length")
+@app.get("/length", response_model=int)
 async def get_length():
 
     return len(data)

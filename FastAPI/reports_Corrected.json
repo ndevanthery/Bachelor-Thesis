@@ -1,0 +1,1822 @@
+[
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Nodule hyper\u00e9chog\u00e8ne de 16 mm dans le segment IV \u00e9voquant un petit h\u00e9mangiome . Les <span class='bg-warning bg-opacity-50'>veines</span> <span class='bg-warning bg-opacity-50'>sus-h\u00e9patiques</span> et la <span class='bg-warning bg-opacity-50'>veine</span> porte sont de calibre normal avec un flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> au niveau portal . Voies biliaires: de calibre normal, le chol\u00e9doque mesure 4 mm au niveau du hile h\u00e9patique . Status post-chol\u00e9cystectomie . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . <span class='bg-danger bg-opacity-50'>Tube digestif</span>: sans anomalie grossi\u00e8re . Absence d'\u00e9paississement des parois intestinaux en fosse iliaque droite . Absence de liquide libre . L'appendice n'est pas identifi\u00e9 . Le passage de la sonde \u00e9chographique en fosse iliaque droite est indolore ce jour . P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            },
+            {
+                "code": "39.3265",
+                "description": "Tube digestif"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: de taille et structure normales . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: les deux reins sont augment\u00e9s de taille, mesur\u00e9s \u00e0 14,3 cm de longueur \u00e0 droite et 17,3 cm de longueur \u00e0 gauche avec toutefois conservation d'une bonne diff\u00e9renciation cortico-sinusale . Les deux reins sont porteurs d'innombrables formations kystiques mesurant pour le plus volumineux \u00e0 droite 4,2 cm \u00e0 la partie moyenne et 7,4 cm au p\u00f4le sup\u00e9rieur du rein gauche . La majorit\u00e9 des kystes d\u00e9montre un contenu an\u00e9chog\u00e8ne de type liquidien et certains pr\u00e9sentent de fines cloisons internes sans hyperh\u00e9mie au <span class='bg-warning bg-opacity-50'>Doppler</span> couleur . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: \u00e0 parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Reins: de taille et de morphologie normales, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: en r\u00e9pl\u00e9tion mod\u00e9r\u00e9e, \u00e0 parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal . Ovaires bien visibles sans anomalie . Autres constatations: un contr\u00f4le de l \u2019 abdomen sup\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3260",
+                "description": "Examen Trans abdominal par ultrasons du syst\u00e8me uro-g\u00e9nital"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: foie de taille et morphologie normales d'\u00e9chostructure homog\u00e8ne diffus\u00e9ment hyper\u00e9chog\u00e8ne avec alt\u00e9ration du gradient h\u00e9pator\u00e9nal compatible avec une infiltration st\u00e9atosique . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille normale (14 cm craniocaudal au lobe droit). Minime h\u00e9t\u00e9rog\u00e9n\u00e9it\u00e9 diffuse du parenchyme h\u00e9patique pouvant \u00eatre en rapport avec une discr\u00e8te st\u00e9atose irr\u00e9guli\u00e8re . L\u00e9sion \u00e9chog\u00e8ne au segment IV a (ou coalescence de deux l\u00e9sions \u00e9chog\u00e8nes avec un centre hypo\u00e9chog\u00e8ne) mesurant 40 x 30 mm posant un diagnostic diff\u00e9rentiel d'h\u00e9mangiome versus ad\u00e9nome . L\u00e9sion \u00e9chog\u00e8ne de 2 cm en avant de la bifurcation de la <span class='bg-warning bg-opacity-50'>veine</span> porte \u00e9voquant un h\u00e9mangiome . Flux porte physiologique au <span class='bg-warning bg-opacity-50'>doppler</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Autres constatations: un contr\u00f4le de l \u2019 abdomen inf\u00e9rieur ne montre pas d \u2019 anomalie . Vessie vide.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3250",
+                "description": "US Abdo sup\u00e9rieur"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: Hyper\u00e9chog\u00e9n\u00e9\u00efcit\u00e9 diffuse du foie . Au codage <span class='bg-warning bg-opacity-50'>Doppler</span> <span class='bg-warning bg-opacity-50'>veine</span> porte perm\u00e9able . \u00c9lastom\u00e9trie: plusieurs mesures se situant entre 6 et 7 kPaVoies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: Rate mesurant sept. CinqReins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Ectasie de l'aorte infrar\u00e9nale mesur\u00e9e \u00e0 23 mm . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Autres constatations: un contr\u00f4le de l \u2019 abdomen inf\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3250",
+                "description": "US Abdo sup\u00e9rieur"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: d'analyse limit\u00e9e en raison d'interposition de l'intestin, partiellement visualis\u00e9, montrant une \u00e9chostructure normale . Deux petits kystes biliaires simples de 10 et 11 mm \u00e0 la jonction des segments IV/VIII h\u00e9patiques . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie, partiellement visualis\u00e9 . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies, peu remplie . Organes g\u00e9nitaux: prostate non visualis\u00e9e . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: de taille et structure normales . Pas de l\u00e9sion focale . Flux de la <span class='bg-warning bg-opacity-50'>veine</span> porte physiologique au <span class='bg-warning bg-opacity-50'>Doppler</span> couleur . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . Bonne diff\u00e9renciation cortico-m\u00e9dullaire . Perfusion sym\u00e9trique au <span class='bg-warning bg-opacity-50'>Doppler</span> couleur . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . <span class='bg-danger bg-opacity-50'>Tube digestif</span>: sans anomalie . L'appendice est fin . P\u00e9ritoine: pas de liquide libre . Par contre, multiples ganglions m\u00e9sent\u00e9riques un peu accentu\u00e9s, avec un court axe jusqu' \u00e0 6 mm, tout \u00e0 fait compatible avec une lymphad\u00e9nite m\u00e9sent\u00e9rique en r\u00e9gion p\u00e9riombilicale . Vessie: \u00e0 parois r\u00e9guli\u00e8res et non \u00e9paissies sous r\u00e9serve d'une faible r\u00e9pl\u00e9tion . Organes g\u00e9nitaux: d'aspect normal, ut\u00e9rus de configuration enfantine.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            },
+            {
+                "code": "39.3265",
+                "description": "Tube digestif"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: de taille normale, sans dysmorphie et aux contours r\u00e9guliers . Le foie gauche est difficilement analysable en raison d'interpositions a\u00e9riques digestives gastriques . Le parenchyme h\u00e9patique est diffus\u00e9ment discr\u00e8tement hyper\u00e9chog\u00e8ne par rapport au parenchyme r\u00e9nal, sugg\u00e9rant une st\u00e9atose . Pas de l\u00e9sion h\u00e9patique focale visualis\u00e9e . <span class='bg-warning bg-opacity-50'>Veine</span> porte au flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> au <span class='bg-warning bg-opacity-50'>Doppler</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines, contenant un macrocalcul, mesurant 17 mm . Il existe possiblement d'autre calculs n\u00e9anmoins l'analyse est limit\u00e9e par le c\u00f4ne d'ombre post\u00e9rieur et une v\u00e9sicule biliaire collab\u00e9e autour du macrocalcul . Pas d \u2019 \u00e9paississement pari\u00e9tal de la v\u00e9sicule biliaire . Signe de Murphy \u00e9chographique douteux . Pancr\u00e9as: partiellement visualis\u00e9 en raison d'interpositions a\u00e9riques digestives gastriques au niveau du corps du pancr\u00e9as . Sous cette r\u00e9serve d'aspect normal . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Autres constatations: vessie \u00e0 parois fines . Hypertrophie de la prostate avec un volume estim\u00e9 \u00e0 65 ml.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: de taille et structure normales . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte \u00e0 flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> au <span class='bg-warning bg-opacity-50'>Doppler</span> couleur . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: non visualis\u00e9 en raison des surprojections a\u00e9rodigestives . Rate: de taille normale mesurant 9,6 cm de diam\u00e8tre bipolaire, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . Absence de l\u00e9sion focale . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . P\u00e9ritoine: pas de liquide libre . Vessie: \u00e0 parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: prostate de taille normale mesur\u00e9e \u00e0 22 ml.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: de taille et structure normales . Pas de l\u00e9sion focale . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . <span class='bg-danger bg-opacity-50'>Tube digestif</span>: discret \u00e9paississement focal des parois du c\u00e6cum (2 mm environ), sans augmentation des flux <span class='bg-warning bg-opacity-50'>Doppler</span> ou autre alt\u00e9ration suspecte digestive, \u00e0 confronter au bilan sp\u00e9cifique . P\u00e9ritoine: pas de liquide libre . Vessie: \u00e0 parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            },
+            {
+                "code": "39.3265",
+                "description": "Tube digestif"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: le parenchyme h\u00e9patique est diffus\u00e9ment hyper\u00e9chog\u00e8ne sans l\u00e9sion focale . Le diam\u00e8tre ant\u00e9ropost\u00e9rieur mesure 16,2 cm \u00e0 hauteur du hile h\u00e9patique . Pas de l\u00e9sion focale . Les <span class='bg-warning bg-opacity-50'>veines</span> <span class='bg-warning bg-opacity-50'>sus-h\u00e9patiques</span> et la <span class='bg-warning bg-opacity-50'>veine</span> porte sont de calibre normal avec un flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> au niveau de la <span class='bg-warning bg-opacity-50'>veine</span> porte au <span class='bg-warning bg-opacity-50'>Doppler</span>. Voies biliaires: status post-chol\u00e9cystectomie, les voies biliaires intrah\u00e9patiques et extrah\u00e9patiques sont de calibre normal, le chol\u00e9doque mesure 5 mm au niveau du hile . Pancr\u00e9as: \u00e0 peine visualis\u00e9e chez cette patiente en surcharge pond\u00e9rale avec un m\u00e9t\u00e9orisme . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: pr\u00e9sence d'une masse de 6 cm l\u00e9g\u00e8rement lat\u00e9ralis\u00e9e \u00e0 droite dans la r\u00e9gion fundique de l'ut\u00e9rus, il s'agit probablement d'un myome, toutefois une masse solide annexielle droite ne peut pas formellement \u00eatre \u00e9cart\u00e9e, un avis gyn\u00e9cologique est sugg\u00e9r\u00e9 . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: de taille discr\u00e8tement augment\u00e9e, la fl\u00e8che est mesur\u00e9e \u00e0 14,5 cm sur la ligne m\u00e9dioclaviculaire, au parenchyme diffus\u00e9ment hyper\u00e9chog\u00e8ne, h\u00e9t\u00e9rog\u00e8ne . Sa morphologie est pr\u00e9serv\u00e9e . Au <span class='bg-warning bg-opacity-50'>Doppler</span>, la <span class='bg-warning bg-opacity-50'>veine</span> porte et les <span class='bg-warning bg-opacity-50'>veines</span> <span class='bg-warning bg-opacity-50'>sus-h\u00e9patiques</span> sont perm\u00e9ables . Voies biliaires: v\u00e9sicule biliaire alithiasique \u00e0 parois fines et r\u00e9guli\u00e8res . Pas de dilatation des voies biliaires . Pancr\u00e9as: homog\u00e8ne, sans particularit\u00e9 . Rate: en place, mesur\u00e9e \u00e0 13,0 cm d'axe principal, parenchyme homog\u00e8ne . Reins: en place, de taille normale . Bonne diff\u00e9renciation parenchymato-sinusale . Pas de l\u00e9sion corticale focale, ni dilatation des cavit\u00e9s excr\u00e9trices . R\u00e9trop\u00e9ritoine: absence d'ad\u00e9nom\u00e9galie ou masse . Aorte de calibre r\u00e9gulier mesurant 1,5 cm en infrar\u00e9nal . <span class='bg-danger bg-opacity-50'>Tube digestif</span>: sans particularit\u00e9 par cette modalit\u00e9 . P\u00e9ritoine: absence d'\u00e9panchement intrap\u00e9riton\u00e9al . Vessie: en faible r\u00e9pl\u00e9tion, \u00e0 contenu transsonore . Organes g\u00e9nitaux: prostate de taille normale.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            },
+            {
+                "code": "39.3265",
+                "description": "Tube digestif"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Pas d \u2019 urolithiase . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . <span class='bg-danger bg-opacity-50'>Tube digestif</span>: sans anomalie d\u00e9montrable par \u00e9chographie . P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Pas de calcul . Organes g\u00e9nitaux: d'aspect normal . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3265",
+                "description": "Tube digestif"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: de taille et structure normales . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: \u00e0 parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines, sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: multiples ganglions infracentim\u00e9triques en grappe \u00e0 la racine du m\u00e9sent\u00e8re \u00e0 droite, les plus grand mesur\u00e9s \u00e0 5 mm de petit diam\u00e8tre, asp\u00e9cifiques mais pouvant entrer dans le cadre d \u2019 une ad\u00e9nite . Aorte de calibre normal . <span class='bg-danger bg-opacity-50'>Tube digestif</span>: pas d \u2019 anomalie suspecte d\u00e9celable . P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3265",
+                "description": "Tube digestif"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . L\u00e9sion \u00e9chog\u00e8ne au segment VIII compatible avec un h\u00e9mangiome de 8 mm . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . <span class='bg-danger bg-opacity-50'>Tube digestif</span>: sans anomalie d\u00e9montrable des parois coliques . P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: Ut\u00e9rus d\u00e9vi\u00e9 vers la gauche . Ovaire droit d'aspect normal . Formation kystique de 22 mm \u00e0 l'ovaire gauche, d \u2019 aspect folliculaire . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3265",
+                "description": "Tube digestif"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . <span class='bg-danger bg-opacity-50'>Tube digestif</span>: l'appendice n'est pas clairement visualis\u00e9, n\u00e9anmoins absence d'image en cocarde ou de signes d'inflammation en fosse iliaque droite . Multiples ganglions m\u00e9sent\u00e9riques en fosse iliaque droite, atteignant 10 x 11 mm, en faveur d'une ad\u00e9nite m\u00e9sent\u00e9rique . P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3265",
+                "description": "Tube digestif"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: l'extension ant\u00e9ropost\u00e9rieure \u00e0 hauteur du hile h\u00e9patique mesure ce jour 15,5 cm, donc une r\u00e9gression des 18,5 cm mesur\u00e9s en 2021 . Le parenchyme h\u00e9patique est devenu normo-\u00e9chog\u00e8ne . Absence de l\u00e9sion focale . Le fibroscan permet de mesurer une rigidit\u00e9 moyenne d'environ 9 . 2 kPaVoies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Autres constatations: un contr\u00f4le de l \u2019 abdomen inf\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3250",
+                "description": "US Abdo sup\u00e9rieur"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: parenchyme h\u00e9patique d'aspect globalement particuli\u00e8rement hyper\u00e9chog\u00e8ne avec importante att\u00e9nuation acoustique post\u00e9rieure; la graisse p\u00e9riportale n'est pas identifiable mais l'aspect \u00e9chog\u00e8ne du diaphragme est encore visible (st\u00e9atose de grade II \u00e0 l'\u00e9chographie). Pas de franche l\u00e9sion focale dans ce contexte . Le foie est de grande taille mesurant possiblement autour de 18/19 cm en craniocaudal (mesures peu fiables en raison d'une forte att\u00e9nuation acoustique). <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able \u00e0 flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> au <span class='bg-warning bg-opacity-50'>Doppler</span>. - Elastographie: \u00e9chantillonnage h\u00e9patique multiple par ondes de cisaillement (Shear Wave\u00ae). Valeur m\u00e9diane d'\u00e9lasticit\u00e9 (SWE) de 5,4 kPa, correspondant \u00e0 un score Metavir F0-1 . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: non visualis\u00e9 (surprojections gazeuses digestives). Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3250",
+                "description": "US Abdo sup\u00e9rieur"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales, avec une hyper\u00e9chog\u00e9nicit\u00e9 diffuse par rapport au cortex r\u00e9nal, en rapport avec une probable st\u00e9atose . Pas de l\u00e9sion focale suspecte . Au <span class='bg-warning bg-opacity-50'>doppler</span>, tronc porte perm\u00e9able de flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> et <span class='bg-warning bg-opacity-50'>veines</span> h\u00e9patiques perm\u00e9ables de flux h\u00e9patofuge . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines contenant des calculs, le plus volumineux mesurant 14 mm . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: status apr\u00e8s hyst\u00e9rectomie . Les ovaires ne sont pas visibles . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d'ad\u00e9nopathie . Calcifications ath\u00e9romateuses de l'aorte abdominale . Kissing stent aorto-iliaque avec importante acc\u00e9l\u00e9ration des vitesses dans le stent du c\u00f4t\u00e9 gauche compatible avec des ph\u00e9nom\u00e8nes de rest\u00e9nose . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: en faible r\u00e9pl\u00e9tion \u00e0 parois diffus\u00e9ment \u00e9paissies et irr\u00e9guli\u00e8res . Organes g\u00e9nitaux: prostate globuleuse avec lobe m\u00e9dian faisant saillie au niveau du plancher v\u00e9sical mesur\u00e9 \u00e0 3,7 x 3,2 x 3,7 cm pr\u00e9sentant un volume de 23,1 ml . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: hyper\u00e9chog\u00e9nicit\u00e9 diffuse traduisant une st\u00e9atose . Les <span class='bg-warning bg-opacity-50'>veines</span> <span class='bg-warning bg-opacity-50'>sus-h\u00e9patiques</span> et la <span class='bg-warning bg-opacity-50'>veine</span> porte sont de calibre normal avec un flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> \u00e0 l'examen <span class='bg-warning bg-opacity-50'>Doppler</span> de la <span class='bg-warning bg-opacity-50'>veine</span> porte . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: partiellement visualis\u00e9 avec une hyper\u00e9chog\u00e9nicit\u00e9 \u00e9voquant une lipomatose pancr\u00e9atique . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . Pr\u00e9sence de multiples kystes r\u00e9naux bilat\u00e9raux, le plus grand \u00e0 gauche mesure 3 cm au p\u00f4le sup\u00e9rieur et le plus volumineux \u00e0 droite mesure 3,2 cm dans la partie moyenne . R\u00e9trop\u00e9ritoine: difficilement analysable, aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: le volume prostatique mesure 24 ml, les contours sont r\u00e9guliers . Aspect sym\u00e9trique des v\u00e9sicules s\u00e9minales . Vessie mod\u00e9r\u00e9ment remplie . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: de taille et structure normales, contours discr\u00e8tement bossel\u00e9s . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> couleur, avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: non visualis\u00e9 en raison d'interpositions de l'intestin . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . Kyste cortical du tiers moyen du rein gauche mesurant 24 mm de grand axe . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: \u00e0 parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: volume prostatique de 31 ml . Autres constatations: correspondant \u00e0 la voussure \u00e9pigastrique, mise en \u00e9vidence d'une pro\u00e9minence osseuse de l'appendice xipho\u00efde.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: formation kystique ovarienne gauche de 3,5 x 3 x 2,6 cm, an\u00e9chog\u00e8ne, \u00e0 parois fines sans autre anomalie associ\u00e9e . Pas d'anomalie d\u00e9cel\u00e9e \u00e0 hauteur de la r\u00e9gion annexielle droite . Ut\u00e9rus ant\u00e9vers\u00e9 d'aspect globalement h\u00e9t\u00e9rog\u00e8ne; pas de r\u00e9tention liquidienne . Autres constatations: un contr\u00f4le de l \u2019 abdomen sup\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3260",
+                "description": "Examen Trans abdominal par ultrasons du syst\u00e8me uro-g\u00e9nital"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Flux porte <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> \u00e0 <span class='bg-warning bg-opacity-50'>l'\u00e9cho-Doppler</span>. Voies biliaires: v\u00e9sicule lithiasique . Pr\u00e9sence d'au moins trois calculs dont le plus gros mesure 15 mm . Les voies biliaires sont de calibre normal . Pancr\u00e9as: sans anomalie . Canal pancr\u00e9atique non dilat\u00e9 . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Autres constatations: un contr\u00f4le de l \u2019 abdomen inf\u00e9rieur montre une vessie pratiquement vide ne permettant pas une exploration pelvienne.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3250",
+                "description": "US Abdo sup\u00e9rieur"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Autres constatations: un contr\u00f4le de l \u2019 abdomen inf\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3250",
+                "description": "US Abdo sup\u00e9rieur"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Incorrect",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: natifs quasi m\u00e9connaissables, hyper\u00e9chog\u00e8nes et d\u00e9diff\u00e9renci\u00e9s, de petite taille mesurant approximatif 4,7 x 2,2 x 2,5 cm \u00e0 droite et 5,6 x 2,6 x 2,5 cm \u00e0 gauche . Pas de masse ni de kyste dans les loges r\u00e9nales d\u00e9celable . Greffon r\u00e9nal en fosse iliaque droite, mesurant 12 x 6 x 6,4 cm avec une bonne diff\u00e9renciation cortico-m\u00e9dullaire et une \u00e9paisseur parenchymateuse dans la norme . Pas de l\u00e9sion parenchymateuse focale . Bonne vascularisation globale du rein . Index de r\u00e9sistance entre 0,73 et 0,79 en intraparenchymateux . Art\u00e8re r\u00e9nale hilaire avec une vitesse systolique maximale de 74 cm/s . L'anastomose n'est pas identifi\u00e9e mais le spectre est normal de l'art\u00e8re r\u00e9nale proximale du greffon . Ascension systolique rapide de la courbe <span class='bg-warning bg-opacity-50'>doppler</span> en extra et intrar\u00e9nale . Perm\u00e9abilit\u00e9 de la <span class='bg-warning bg-opacity-50'>veine</span> r\u00e9nale . Ectasie py\u00e9localicielle du greffon avec un calice moyen \u00e0 titre indicatif de 5 mm . L'uret\u00e8re du greffon est mesur\u00e9 jusqu' \u00e0 4 mm . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: ut\u00e9rus d'aspect normal . Ovaires non visualis\u00e9s.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Incorrect",
+        "report": "Examen limit\u00e9 par le morphotype du patient . Foie: d'analyse partielle avec un parenchyme d'aspect st\u00e9atosique homog\u00e8ne sans l\u00e9sion focale sur les aires visualis\u00e9es . Le tronc porte est perm\u00e9able, <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie, sous r\u00e9serve d'une r\u00e9gion caudale d'analyse limit\u00e9e . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal . Autres constatations: diastasis de la ligne blanche sus-ombilicale mesur\u00e9 sur environ 3 cm sans \u00e9ventration, ni formation herniaire . Pas de hernie visualis\u00e9e au niveau ombilical . Ligne blanche sous-ombilicale sans particularit\u00e9 . Pas d'argument pour une hernie de Spiegel . Au repos comme au Valsalva pas de hernie inguinale.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: de taille \u00e0 la limite sup\u00e9rieure de la normale, sans dysmorphie et aux contours r\u00e9guliers . Le parenchyme h\u00e9patique est homog\u00e8ne . Pas de l\u00e9sion focale visualis\u00e9e . Perm\u00e9abilit\u00e9 de la <span class='bg-warning bg-opacity-50'>veine</span> porte, au flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>, et des <span class='bg-warning bg-opacity-50'>veines</span> <span class='bg-warning bg-opacity-50'>sush\u00e9patiques</span>. Voies biliaires: de calibre normal, visualisation tr\u00e8s partielle du chol\u00e9doque . V\u00e9sicule de parois fines, sans calcul d\u00e9celable . Pas de signe de Murphy \u00e9chographique . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . On retrouve un kyste polaire sup\u00e9rieur du rein gauche, an\u00e9chog\u00e8ne et d'aspect simple, mesurant 3 cm de grand axe . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Ath\u00e9romatose . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res, sous r\u00e9serve d \u2019 une r\u00e9pl\u00e9tion partielle . Organes g\u00e9nitaux: d'aspect normal.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: status post-hyst\u00e9rectomie . Autres constatations: pr\u00e9sence d \u2019 un contenu hyper\u00e9chog\u00e8ne d\u00e9clive, mobile dans la v\u00e9sicule biliaire, mesurant 24 mm environ.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Examen interpr\u00e9t\u00e9 en corr\u00e9lation avec l'\u00e9chographie de l'abdomen sup\u00e9rieur du 04/12/2019 (CIP). Foie: taille dans les limites de la norme mesurant jusqu' \u00e0 15,5 cm sur la ligne m\u00e9dioclaviculaire avec un parenchyme homog\u00e8ne . Le parenchyme h\u00e9patique est pratiquement iso\u00e9chog\u00e8ne par rapport au cortex r\u00e9nal avec un index h\u00e9pator\u00e9nal \u00e0 1,02, dans la norme, sans argument pour une st\u00e9atose h\u00e9patique . Pas de l\u00e9sion focale d\u00e9cel\u00e9e . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able \u00e0 flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> au <span class='bg-warning bg-opacity-50'>Doppler</span>. En raison d'une impossibilit\u00e9 d'obtenir des apn\u00e9es ad\u00e9quates, nous n \u2019 avons pas pu effectuer des mesures d'\u00e9lastographie . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: homog\u00e8ne, de taille dans les limites de la norme (12 cm de grand axe). Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . P\u00e9ritoine: pas de liquide libre.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3250",
+                "description": "US Abdo sup\u00e9rieur"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . P\u00e9ritoine: pas de liquide libre . Autres constatations: un contr\u00f4le de l \u2019 abdomen inf\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3250",
+                "description": "US Abdo sup\u00e9rieur"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Voies biliaires: de calibre normal pour l'\u00e2ge . V\u00e9sicule de parois fines, sans calcul d\u00e9celable . Pancr\u00e9as: seule une partie de la t\u00eate a \u00e9t\u00e9 visualis\u00e9e et ne pr\u00e9sente pas d'anomalie . Rate: de taille normale, homog\u00e8ne . Reins: les reins sont en position anatomique, de taille normale avec une \u00e9paisseur corticale conserv\u00e9e des deux c\u00f4t\u00e9s . Le rein droit, dans son p\u00f4le inf\u00e9rieur, pr\u00e9sente une l\u00e9sion kystique de 1,3 cm avec une fine cloison non <span class='bg-warning bg-opacity-50'>vascularis\u00e9e</span>. Le rein gauche pr\u00e9sente une l\u00e9sion kystique simple de 0,8 cm . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Autres constatations: vessie en semi-r\u00e9pl\u00e9tion \u00e0 parois non analysables.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul . Pas de Murphy \u00e9chographique . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3250",
+                "description": "US Abdo sup\u00e9rieur"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Autres constatations: un contr\u00f4le de l \u2019 abdomen inf\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3250",
+                "description": "US Abdo sup\u00e9rieur"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: l'exploration h\u00e9patique est de qualit\u00e9 suboptimale vu la forte att\u00e9nuation des ultrasons en profondeur rendant l'exploration h\u00e9patique partielle, le foie explor\u00e9 para\u00eet de taille normale, de contours r\u00e9guliers et d'\u00e9chostructure homog\u00e8ne hyper\u00e9chog\u00e8ne de surcharge, sans l\u00e9sion focale visible . Le tronc porte est perm\u00e9able avec un flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> au <span class='bg-warning bg-opacity-50'>Doppler</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines, sans calcul d\u00e9celable . Pancr\u00e9as: partiellement explor\u00e9 visible au niveau de sa portion c\u00e9phalique, para\u00eet homog\u00e8ne . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: mal explor\u00e9 vu l'att\u00e9nuation des ultrasons et le morphotype du patient . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Autres constatations: un contr\u00f4le de l \u2019 abdomen inf\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3250",
+                "description": "US Abdo sup\u00e9rieur"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Volume initial de 127 ml; r\u00e9sidu post <span class='bg-success bg-opacity-50'>miction</span>nel de 33 ml . Organes g\u00e9nitaux: volume prostatique de 32 ml; calcification parenchymateuse intraprostatique de 16 x 4 mm en dimension transversale . Autres constatations: un contr\u00f4le de l \u2019 abdomen sup\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3260",
+                "description": "Examen Trans abdominal par ultrasons du syst\u00e8me uro-g\u00e9nital"
+            },
+            {
+                "code": "39.3280",
+                "description": "R\u00e9sidu post-mictionnel"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Pas de comparatif \u00e0 disposition . Reins: pas de dilatation des cavit\u00e9s . Pas de calcul d\u00e9celable sous r\u00e9serve des limitations de la technique . Vascularisation globale pr\u00e9serv\u00e9e au <span class='bg-warning bg-opacity-50'>doppler</span> couleur . Discr\u00e8te irr\u00e9gularit\u00e9 du contour du rein gauche sans atrophie . P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Autres constatations: un contr\u00f4le de l \u2019 abdomen sup\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3260",
+                "description": "Examen Trans abdominal par ultrasons du syst\u00e8me uro-g\u00e9nital"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Reins: reins de taille dans les limites inf\u00e9rieures de la norme (rein droit mesurant 9 cm de grand axe et rein gauche mesurant 9,4 cm de grand axe). \u00c9paisseur de la corticale conserv\u00e9e des deux c\u00f4t\u00e9s . Bassinet extra-ampullaire bilat\u00e9ral et kyste parapy\u00e9lique du rein gauche . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . P\u00e9ritoine: pas de liquide libre . Vessie: en semi-r\u00e9pl\u00e9tion avec parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal . Autres constatations: un contr\u00f4le de l \u2019 abdomen sup\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3260",
+                "description": "Examen Trans abdominal par ultrasons du syst\u00e8me uro-g\u00e9nital"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie mise en \u00e9vidence dans les limites de sensibilit\u00e9 technique . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: formation kystique d'environ 2 cm de grand axe, le plus probablement d'origine ovarienne gauche se projetant plut\u00f4t en r\u00e9tro-ut\u00e9rin, d'aspect simple . Pas d'autre anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Incorrect",
+        "report": "AbdomenFoie: de taille et structure normales . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> couleur, avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie, partiellement visualis\u00e9 . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: \u00e0 parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: ut\u00e9rus d'aspect normal . Ovaires non visualis\u00e9s . <span class='bg-warning bg-opacity-50'>\u00c9cho-DopplerMorphologie</span>: parois aortiques r\u00e9guli\u00e8res, pas de dilatation . Analyse des flux, valeurs des pics systoliques: Aorte : 97 cm/sD\u00e9part a. r\u00e9nale D : 122 cm/sHile r\u00e9nal D : 40 cm/sD\u00e9part a. r\u00e9nale G : 96 cm/sHile r\u00e9nal G : 40 cm/sCes valeurs sont dans les limites de la norme et l'allure des courbes est normale . Le rapport des vitesses a. r\u00e9nales / aorte est <2,5 . Les flux intraparenchymateux des deux reins sont normaux avec une pente d'ascension systolique rapide (< 0,07s) et un index de r\u00e9sistance <0,7 sym\u00e9trique . Autres constatations: pas d'anomalie morphologique des reins.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> couleur avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> (vitesse de flux de 16-39 cm/s). Echantillonnage h\u00e9patique multiple par ondes de cisaillement (Shear Wave\u00ae). Valeurs d'\u00e9lasticit\u00e9 SWE en moyenne de 4,9 kPa, correspondant \u00e0 un score Metavir de F0-F1 . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable montrant un polype solitaire de 3 mm; la v\u00e9sicule est distendue jusqu'au 8,5 x 4,5 cm, le chol\u00e9doque l\u00e9g\u00e8rement dilat\u00e9 \u00e0 hauteur du segment moyen jusqu'au 8,5 mm (calibre de chol\u00e9doque distal 5 mm). Pancr\u00e9as: sans anomalie, partiellement visualis\u00e9 . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: partiellement visualis\u00e9s, d'aspect normal . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: de taille normale, de contours r\u00e9guliers, d'\u00e9chostructure discr\u00e8tement hyper\u00e9chog\u00e8ne homog\u00e8ne probablement st\u00e9atosique sans l\u00e9sion focale visible . La <span class='bg-warning bg-opacity-50'>veine</span> porte est perm\u00e9able avec un tronc <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> au <span class='bg-warning bg-opacity-50'>Doppler</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: de taille normale, aux contours discr\u00e8tement irr\u00e9guliers, sans dysmorphie . Le parenchyme est globalement h\u00e9t\u00e9rog\u00e8ne, hyper\u00e9chog\u00e8ne, par rapport au parenchyme r\u00e9nal, en faveur d'une st\u00e9atose . Pas de l\u00e9sion h\u00e9patique focale visualis\u00e9e . Perm\u00e9abilit\u00e9 de la <span class='bg-warning bg-opacity-50'>veine</span> porte et des <span class='bg-warning bg-opacity-50'>veines</span> <span class='bg-warning bg-opacity-50'>sus-h\u00e9patiques</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pr\u00e9sence d'une ad\u00e9nomyose au fundus v\u00e9siculaire . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: ut\u00e9rus d'aspect normal . Ovaires partiellement visualis\u00e9s, non agrandis.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille normale; hyper\u00e9chog\u00e9nicit\u00e9 diffuse du parenchyme h\u00e9patique . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> couleur, avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: non visualis\u00e9 en raison d'interposition de l'intestin . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: volume prostatique de 35 ml . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Reins: les deux reins d\u00e9montrent une l\u00e9g\u00e8re perte de la diff\u00e9renciation cortico-sinusale, sans effet de masse significatif ni dilatation des cavit\u00e9s py\u00e9localicielles . Le rein gauche est porteur d'un microkyste cortical sur la partie moyenne de 6 mm d'aspect banal . Les deux reins mesurent environ 9 cm de longueur et pr\u00e9sentent une \u00e9paisseur corticale au p\u00f4le inf\u00e9rieur de 10 mm . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: vessie en faible r\u00e9pl\u00e9tion mal analysable . Organes g\u00e9nitaux: non visualis\u00e9s.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3260",
+                "description": "Examen Trans abdominal par ultrasons du syst\u00e8me uro-g\u00e9nital"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal . St\u00e9rilet en place . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Flux porte physiologique au <span class='bg-warning bg-opacity-50'>doppler</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines avec plusieurs calculs mobiles de moins de 5 mm . Pas de signe de chol\u00e9cystite . Pas de calcul chol\u00e9docien . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Voies biliaires: de calibre normal . V\u00e9sicule biliaire alithiasique avec un discret \u00e9paississement diffus de ses parois dont l'aspect est compatible avec une ad\u00e9nomyomatose diffuse, \u00e0 banaliser . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: ut\u00e9rus ant\u00e9vers\u00e9 sans anomalie . Ovaires non visualis\u00e9s . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: foie de taille et morphologie normales d'\u00e9chostructure homog\u00e8ne au sein duquel il existe plusieurs l\u00e9sions hypo\u00e9chog\u00e8nes d'allure kystique mesurant jusqu' \u00e0 2 cm dans le segment IV . Pas de l\u00e9sion focale suspecte . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: reins en place dans leur loge de taille et morphologie normales sans dilatation des cavit\u00e9s py\u00e9localicielles . Le rein gauche est porteur de quelques kystes parapy\u00e9liques d'aspect banal . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: de taille et structure normales . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> couleur, avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie, partiellement visualis\u00e9 . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: vessie pratiquement vide . Organes g\u00e9nitaux: ut\u00e9rus partiellement visualis\u00e9, d'aspect normal . Ovaires non visualis\u00e9s.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Incorrect",
+        "report": "Reins: de morphologie normale, sans dilatation des cavit\u00e9s excr\u00e9trices . Le rein droit mesure 9,2 cm, le rein gauche 9,12 cm . La structure r\u00e9nale gauche r\u00e9v\u00e8le une formation kystique corticale infracentim\u00e9trique non <span class='bg-warning bg-opacity-50'>vascularis\u00e9e</span> au <span class='bg-warning bg-opacity-50'>Doppler</span>. R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathie ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: ut\u00e9rus atrophique . Absence de masse annexielle . Autres constatations: un contr\u00f4le de l \u2019 abdomen sup\u00e9rieur r\u00e9v\u00e8le une formation hyper\u00e9chog\u00e8ne du segment VIII, de 1,2 cm de diam\u00e8tre.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3260",
+                "description": "Examen Trans abdominal par ultrasons du syst\u00e8me uro-g\u00e9nital"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: de taille et morphologie normales, d'\u00e9chostructure homog\u00e8ne . Dans le lobe gauche, petite formation kystique de 10 mm . Large kyste du segment IV de 54 x 43 mm . Pas d'autre anomalie focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: \u00e0 parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: On retrouve un foie hyper\u00e9chog\u00e8ne, mais de fa\u00e7on un peu moins marqu\u00e9e que pr\u00e9c\u00e9demment et sans l\u00e9sion focale . Flux porte <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> au <span class='bg-warning bg-opacity-50'>doppler</span>. - Elastographie: \u00e9chantillonnage h\u00e9patique multiple par ondes de cisaillement (Shear Wave\u00ae). Valeur m\u00e9diane d'\u00e9lasticit\u00e9 (SWE) de 3,1 kPa, correspondant \u00e0 un score Metavir F0 . Voies biliaires: De calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable, aussi bien en d\u00e9cubitus dorsal qu'en d\u00e9cubitus lat\u00e9ral gauche . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . Kyste cortical polaire inf\u00e9rieur gauche de 18 mm et droit de la l\u00e8vre post\u00e9rieure de 17 mm . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Autres constatations: un contr\u00f4le de l \u2019 abdomen inf\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3250",
+                "description": "US Abdo sup\u00e9rieur"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> couleur, avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: partiellement visualis\u00e9, montrant au niveau du corps pancr\u00e9atique une l\u00e9sion bien d\u00e9limit\u00e9e de 7,5 mm de long axe, en premier lieu kystique solide . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: prostate avec quelques calcifications intraparenchymateuses . Volume prostatique de 32 ml.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Autres constatations: un contr\u00f4le de l \u2019 abdomen inf\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3250",
+                "description": "US Abdo sup\u00e9rieur"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: h\u00e9patom\u00e9galie, l'extension cranio-caudale du lobe droit mesure 17 cm . Le parenchyme h\u00e9patique est homog\u00e8ne, sans l\u00e9sion focale et sans signe \u00e9chographique de st\u00e9atose . La <span class='bg-warning bg-opacity-50'>veine</span> porte est de calibre normal avec un flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: hyper\u00e9chog\u00e9nicit\u00e9 diffuse, sans l\u00e9sion focale sous r\u00e9serve des surprojections digestives . Le Wirsung est fin . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: de taille normale, si\u00e8ge d'une volumineuse masse de 77 x 76 x 53 mm du segment IV iso\u00e9chog\u00e8ne \u00e0 centre hypo\u00e9chog\u00e8ne sans vascularisation sp\u00e9cifique au <span class='bg-warning bg-opacity-50'>Doppler</span>. La <span class='bg-warning bg-opacity-50'>veine</span> porte est perm\u00e9able avec un flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> au <span class='bg-warning bg-opacity-50'>Doppler</span>. Les <span class='bg-warning bg-opacity-50'>veines</span> <span class='bg-warning bg-opacity-50'>sus-h\u00e9patiques</span> sont perm\u00e9ables . Voies biliaires: pas de dilatation des voies biliaires intrah\u00e9patiques et de la voie biliaire principale . V\u00e9sicule de parois fines en semi-r\u00e9pl\u00e9tion sans calcul \u00e9vident . Pancr\u00e9as: partiellement explor\u00e9 au niveau de sa portion c\u00e9phalique et corpor\u00e9ale homog\u00e8ne sans dilatation du Wirsung . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s et sans n\u00e9phrolithiaseR\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Les m\u00e9ats ur\u00e9t\u00e9ro-v\u00e9sicaux sont libres . Les jets urinaires sont pr\u00e9sents et sym\u00e9triques . Organes g\u00e9nitaux: ut\u00e9rus ant\u00e9vers\u00e9 de morphologie pr\u00e9serv\u00e9e avec ligne de vacuit\u00e9 fine . Pas de masse annexielle . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: la paroi de la vessie est globalement \u00e9paissie jusqu' \u00e0 7 mm, notamment de la paroi post\u00e9rieure . Le volume avant <span class='bg-success bg-opacity-50'>miction</span> est mesur\u00e9 \u00e0 115 ml . Apr\u00e8s miction, il n' y a pas de r\u00e9sidu significatif avec 12 ml . Organes g\u00e9nitaux: hypertrophie de la prostate, \u00e9valu\u00e9e sous r\u00e9serve du morphotype et d'une \u00e9chographie trans-abdominale \u00e0 environ 45 ml . Autres constatations: signes de st\u00e9atose h\u00e9patique mod\u00e9r\u00e9e.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3280",
+                "description": "R\u00e9sidu post-mictionnel"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Reins: en place, de taille normale mesurant \u00e0 droite 115 mm et \u00e0 gauche 119 mm de grand-axe avec un cortex qui est aminci par endroits surtout \u00e0 gauche notamment au p\u00f4le inf\u00e9rieur mesurant 9 mm d'\u00e9paisseur \u00e0 droite et 1 cm \u00e0 gauche . Vascularisation harmonieuse au <span class='bg-warning bg-opacity-50'>Doppler</span>. Multiples kystes parapy\u00e9liques des deux c\u00f4t\u00e9s, plus volumineux est importants \u00e0 gauche atteignant 20 mm, simulant une dilatation des cavit\u00e9s excr\u00e9trices \u00e0 l'IRM lombaire non d\u00e9di\u00e9e . Pas de dilatation des cavit\u00e9s py\u00e9localicielles ou de n\u00e9phrolithiase des deux c\u00f4t\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Les m\u00e9ats ur\u00e9t\u00e9ro-v\u00e9sicaux sont libres et les jets urinaires sym\u00e9triquesOrganes g\u00e9nitaux: d'aspect normal . Autres constatations: un contr\u00f4le de l \u2019 abdomen sup\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3260",
+                "description": "Examen Trans abdominal par ultrasons du syst\u00e8me uro-g\u00e9nital"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Reins: de morphologie normale, sans dilatation des cavit\u00e9s . Kyste simple polaire sup\u00e9rieur gauche de 35 mm de grand axe . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: \u00e0 parois r\u00e9guli\u00e8res et non \u00e9paissies . R\u00e9sidu post<span class='bg-success bg-opacity-50'>miction</span>nel 45 ml . Organes g\u00e9nitaux: non visualis\u00e9s en raison d'interposition de l'intestin . Autres constatations: un contr\u00f4le de l \u2019 abdomen sup\u00e9rieur ne montre pas d \u2019 anomalie notable; deux kystes biliaires simples de 9 et 12 mm du lobe h\u00e9patique droit.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3260",
+                "description": "Examen Trans abdominal par ultrasons du syst\u00e8me uro-g\u00e9nital"
+            },
+            {
+                "code": "39.3280",
+                "description": "R\u00e9sidu post-mictionnel"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> couleur . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . <span class='bg-danger bg-opacity-50'>Tube digestif</span>: a\u00e9rocolie \u00e0 droite . Absence d'autre anomalie d\u00e9cel\u00e9e . P\u00e9ritoine: lame de liquide libre physiologique au niveau du petit bassin . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            },
+            {
+                "code": "39.3265",
+                "description": "Tube digestif"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> couleur . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: status apr\u00e8s hyst\u00e9rectomie . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal . Autres constatations: visualisation partielle des deux formations kystiques sous-diaphragmatiques entre les segments h\u00e9patiques IV et VIII, la plus volumineuse mesurant environ 3 . 2 cm sur le plan axial, difficilement caract\u00e9risables en raison des artefacts provoqu\u00e9s les poumons . Pas d'autre anomalie significative.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Examen comparatif du 25/7/2019 . Foie: taille et structure normales . Pas de l\u00e9sion focale . Au <span class='bg-warning bg-opacity-50'>Doppler</span>, tronc porte perm\u00e9able de flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> et <span class='bg-warning bg-opacity-50'>veines</span> h\u00e9patiques perm\u00e9ables de flux h\u00e9patofuge . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines contenant un calcul unique mesurant 26 mm de grand axe . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Autres constatations: un contr\u00f4le de l \u2019 abdomen inf\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3250",
+                "description": "US Abdo sup\u00e9rieur"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: Foie de taille normale, l\u00e9g\u00e8rement hyper\u00e9chog\u00e8ne en faveur d'une st\u00e9atose avec une plage d'\u00e9pargne st\u00e9atosique dans le segment IV . Flux porte <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> au <span class='bg-warning bg-opacity-50'>doppler</span>. Voies biliaires: Chol\u00e9doque relativement large mesurant 7 mm dans sa moiti\u00e9 sup\u00e9rieure , 6 mm \u00e0 la hauteur du pancr\u00e9as o\u00f9 l'on ne parvient pas \u00e0 le suivre vers le bas; pas de dilatation des voies biliaires intrah\u00e9patiques . Pas de calcul v\u00e9siculaire identifi\u00e9 en d\u00e9cubitus dorsal et en d\u00e9cubitus lat\u00e9ral gauche . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Autres constatations: un contr\u00f4le de l \u2019 abdomen inf\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3250",
+                "description": "US Abdo sup\u00e9rieur"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Perm\u00e9abilit\u00e9 de la <span class='bg-warning bg-opacity-50'>veine</span> porte et des <span class='bg-warning bg-opacity-50'>veines</span> <span class='bg-warning bg-opacity-50'>sus-h\u00e9patiques</span> au <span class='bg-warning bg-opacity-50'>Doppler</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines, sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . On retrouve une rate accessoire qui mesure 14 mm . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: ut\u00e9rus d'aspect normal . Ovaire gauche folliculaire . Ovaire droit tr\u00e8s partiellement visible, de taille normale.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Reins: de taille normale des deux c\u00f4t\u00e9s (rein droit : 10,7 cm, rein gauche 10,2 cm), bien diff\u00e9renci\u00e9s, sans dilatation des cavit\u00e9s . Quelques petits kystes corticaux simples infracentim\u00e9triques des deux c\u00f4t\u00e9s . Petite image de calcification de 3 mm \u00e9voquant un calcul dans la partie moyenne du rein droit et une autre image de m\u00eame aspect dans la partie moyenne du rein gauche, \u00e9galement de 3 mm . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal avec des plaques d'ath\u00e9rome calcifi\u00e9es . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: prostate \u00e9largie mesurant 3,9 x 4,6 x 3,7 cm (volume de 35 cm\u00b3). Autres constatations: un contr\u00f4le de l \u2019 abdomen sup\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3260",
+                "description": "Examen Trans abdominal par ultrasons du syst\u00e8me uro-g\u00e9nital"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Comparatif du 25 . 04 . 2019Foie: taille et structure normales . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> couleur avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines contenant plusieurs calculs v\u00e9siculaires connus . Pancr\u00e9as: sans anomalie, partiellement visualis\u00e9 . Rate: de taille normale, montrant une discr\u00e8te anomalie lin\u00e9aire hyper\u00e9chog\u00e8ne au niveau du p\u00f4le inf\u00e9rieur, r\u00e9trospectivement \u00e9ventuellement vu sur une image de l'\u00e9chographie pr\u00e9c\u00e9dente . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Jets ur\u00e9t\u00e9raux bien visibles et sym\u00e9triques . Volume pr\u00e9<span class='bg-success bg-opacity-50'>miction</span>nel : 330 ml . Volume postmictionnel : 97 ml . Organes g\u00e9nitaux: d'aspect normal . Autres constatations: un contr\u00f4le de l \u2019 abdomen sup\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3260",
+                "description": "Examen Trans abdominal par ultrasons du syst\u00e8me uro-g\u00e9nital"
+            },
+            {
+                "code": "39.3280",
+                "description": "R\u00e9sidu post-mictionnel"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . Les <span class='bg-warning bg-opacity-50'>veines</span> <span class='bg-warning bg-opacity-50'>sus-h\u00e9patiques</span> et la <span class='bg-warning bg-opacity-50'>veine</span> porte sont de calibre normal avec un flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span> \u00e0 l'examen <span class='bg-warning bg-opacity-50'>Doppler</span> de la <span class='bg-warning bg-opacity-50'>veine</span> porte . Voies biliaires: la v\u00e9sicule biliaire contient un s\u00e9diment avec de la boue biliaire abondante, un calcul de 6 mm et un calcul d'environ 2 mm . La paroi est l\u00e9g\u00e8rement \u00e9paissie \u00e0 3 mm sans liquide libre autour et le passage de la sonde \u00e9chographique est indolore . Le chol\u00e9doque est de calibre normal, mesur\u00e9 \u00e0 4 mm, et les voies biliaires intrah\u00e9patiques sont fines . Pancr\u00e9as: tum\u00e9faction du corps pancr\u00e9atique, la t\u00eate et la queue semblent de taille normale . Le parenchyme est homog\u00e8ne et le Wirsung est fin, non visible . Absence de liquide libre autour . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: d'aspect normal.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Reins: rein droit plus petit mesurant 88 mm avec un kyste d \u2019 allure banale de 3 cm du p\u00f4le sup\u00e9rieur . Rein gauche plus volumineux mesur\u00e9 \u00e0 10 cm avec une dilatation du bassinet . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: parois r\u00e9guli\u00e8res et non \u00e9paissies . Organes g\u00e9nitaux: probable fibrome ut\u00e9rin de 3 . 5 cm . Autres constatations: un contr\u00f4le de l \u2019 abdomen sup\u00e9rieur ne montre pas d \u2019 anomalie.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3260",
+                "description": "Examen Trans abdominal par ultrasons du syst\u00e8me uro-g\u00e9nital"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Examen limit\u00e9 en raison du morphotype du patient . Foie: globalement augment\u00e9 en taille avec une fl\u00e8che h\u00e9patique \u00e0 18 cm . Il est de morphologie habituelle, et de contour r\u00e9gulier . Son \u00e9chostructure est globalement hyper\u00e9chog\u00e8ne avec un important gradient h\u00e9pato-r\u00e9nal . Le tronc porte est perm\u00e9able, de flux physiologique au <span class='bg-warning bg-opacity-50'>Doppler</span> couleur . Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: non analys\u00e9, masqu\u00e9 par une interposition de gaz digestifs . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Autres constatations: vessie vide.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    },
+    {
+        "title": "US Abdominal inf\u00e9rieur",
+        "date": "00.00.0000",
+        "status": "Correct",
+        "report": "Foie: taille et structure normales . Pas de l\u00e9sion focale . <span class='bg-warning bg-opacity-50'>Veine</span> porte perm\u00e9able au <span class='bg-warning bg-opacity-50'>Doppler</span> avec flux <span class='bg-warning bg-opacity-50'>h\u00e9patop\u00e8te</span>. Voies biliaires: de calibre normal . V\u00e9sicule de parois fines sans calcul d\u00e9celable . Pancr\u00e9as: sans anomalie . Rate: de taille normale, homog\u00e8ne . Reins: de morphologie normale, sans dilatation des cavit\u00e9s . R\u00e9trop\u00e9ritoine: pas d \u2019 ad\u00e9nopathies ni de masse . Aorte de calibre normal . Tube digestif: sans anomalie grossi\u00e8re (examen non d\u00e9di\u00e9). P\u00e9ritoine: pas de liquide libre . Vessie: vessie en semi-r\u00e9pl\u00e9tion \u00e0 parois r\u00e9guli\u00e8res non \u00e9paissies et un contenu transsonore . Jets ur\u00e9t\u00e9ro-v\u00e9sicaux pr\u00e9sents et sym\u00e9triques au <span class='bg-warning bg-opacity-50'>Doppler</span>. Organes g\u00e9nitaux: d'aspect normal . Autres constatations: aucune.",
+        "bill": [
+            {
+                "code": "39.0010",
+                "description": "Consultation de base/unit\u00e9 d'exploitation Institut de radiologie en dehors de l'h\u00f4pital"
+            },
+            {
+                "code": "39.3800",
+                "description": "Prestation de base technique 0, grand examen par ultrasons, patient ambulatoire"
+            },
+            {
+                "code": "39.3240",
+                "description": "Examen de l'ensemble de l'abdomen (sup\u00e9rieur et inf\u00e9rieur) par ultrasons"
+            },
+            {
+                "code": "39.3510",
+                "description": "Sono des vaisseaux"
+            }
+        ]
+    }
+]

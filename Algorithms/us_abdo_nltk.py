@@ -9,7 +9,7 @@ import traceback
 import nltk
 from colorama import Fore, Back, Style
 
-import ReportReader
+import Common
 
 consultationCode = {"code": "39.0010",
                     "description":  "Consultation de base/unité d'exploitation Institut de radiologie en dehors de l'hôpital"}
@@ -24,35 +24,14 @@ usSupCode = {"code": "39.3250", "description":  "US Abdo supérieur"}
 
 usCompletCode = {"code": "39.3240",
                  "description":  "Examen de l'ensemble de l'abdomen (supérieur et inférieur) par ultrasons"}
-
-""" dopplerCode = {"code": "<span class='bg-warning bg-opacity-50'>39.3510</span>",
-               "description":  "Sono des vaisseaux"} """
 dopplerCode = {"code": "39.3510",
                "description":  "Sono des vaisseaux"}
-
-
-""" postMictionnelCode = {"code": "<span class='bg-success bg-opacity-50'>39.3280</span>",
-                      "description":  "Résidu post-mictionnel"} """
 postMictionnelCode = {"code": "39.3280",
                       "description":  "Résidu post-mictionnel"}
-
-""" tubeDigestifCode = {
-    "code": "<span class='bg-danger bg-opacity-50'>39.3265</span>", "description":  "Tube digestif"}
- """
 tubeDigestifCode = {
     "code": "39.3265", "description":  "Tube digestif"}
-
-
-""" partiesMollesCode = {
-    "code": "<span class='bg-info bg-opacity-50'>39.3420</span>", "description":  "Parties molles"}
- """
 partiesMollesCode = {
     "code": "39.3420", "description":  "Parties molles"}
-
-
-""" artereRenaleCode = {"code": "<span class='bg-primary bg-opacity-50'>39.3610</span>",
-                    "description":  "Sonographie des artères rénales"}
- """
 
 artereRenaleCode = {"code": "39.3610",
                     "description":  "Sonographie des artères rénales"}
@@ -62,7 +41,7 @@ def cotation(report, lang):
     # split into sentences
     tokened_sent = sent_tokenize(report)
 
-    organInfos = ReportReader.SplitDataByOrgans(tokened_sent)
+    organInfos = Common.SplitDataByOrgans(tokened_sent)
 
     # Check the presence of a Doppler
     doppler, report = _isDoppler(report)
@@ -176,7 +155,7 @@ def _isDoppler(report):
     tokened_word = word_tokenize(report)
     doppler = False
     wordList = ['dopler', 'doppler',
-                'sushépatique', 'sus-hépatique', 'hépatopète', 'hépatofuge', 'vascularisé', 'veine']
+                'sushépatique', 'sus-hépatique', 'hépatopète', 'vascularisé', 'veine']
 
     return _checkPresence(report, wordList, 'bg-warning')
 
