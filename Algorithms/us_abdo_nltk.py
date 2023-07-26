@@ -4,6 +4,7 @@ from nltk.corpus import wordnet as wn
 from nltk.stem import PorterStemmer
 import random
 from nltk.tokenize.treebank import TreebankWordDetokenizer
+import os
 
 import traceback
 import nltk
@@ -57,11 +58,12 @@ def cotation(report, lang):
 
     renal, report = _isRenal(report)
 
-    (inf, sup, comp) = _isInfSupOrComplete(organInfos, lang)
+    (inf, sup, comp, flag) = _isInfSupOrComplete(organInfos, lang)
 
     infos_facturation = [
         {
-            "tarmed": consultationCode,
+            "tarmed": {"code": "39.0010",
+                       "description":  "Consultation de base/unité d'exploitation Institut de radiologie en dehors de l'hôpital"},
             "presence": True,
             "colorClass": None
         },
@@ -123,7 +125,7 @@ def cotation(report, lang):
 
     ]
 
-    return (report, _facturation(infos_facturation))
+    return (report, _facturation(infos_facturation), flag)
 
 
 def _facturation(info_facturation):
@@ -173,7 +175,6 @@ def _isTubeDigestif(report, organInfos, lang):
         infoDigestif = organInfos['tube digestif']
         if ('examen non dédié' not in infoDigestif):
             index = report.index('Tube digestif')
-            print(index)
             newReport = report[:index] + \
                 "<span class='bg-danger bg-opacity-50'>Tube digestif</span>" + \
                 report[index+len('Tube digestif'):]
@@ -192,13 +193,27 @@ def _isPartieMolles(report):
 
 
 def _isRenal(report):
-    wordList = ['intraparenchymateux', 'vitesse systolique', 'pics systoliques', 'systolique', 'index de résistance',
-                'index de résistivité', 'analyse des flux', 'hile rénal', 'artère rénale hilaire', 'anastomose', 'intrarénale']
+    wordList = ['intraparenchymateux', 'vitesse systolique', 'pics systoliques',
+                'systolique', 'index de résistance', 'index de résistivité',
+                'analyse des flux', 'hile rénal', 'artère rénale hilaire',
+                'anastomose']
 
     return _checkPresence(report, wordList, 'bg-primary')
 
 
 def _isInfSupOrComplete(organInfos, lang):
+    flag = False
+    try:
+        infosConstat = organInfos['autres constatations'].lower()
+        isDefault = 'ne montre pas d’anomalie' in infosConstat
+        isDefaultInguinal = 'pas d’anomalie supplémentaire.' in infosConstat
+        isNone = 'aucune.' in infosConstat
+
+        if (not (isDefault or isNone or isDefaultInguinal)):
+            flag = True
+
+    except:
+        pass
 
     organes_sup = ['foie', 'rate', 'biliaire', 'pancréas']
     organes_inf = ['génitaux', 'vessie']
@@ -206,43 +221,32 @@ def _isInfSupOrComplete(organInfos, lang):
     inf = False
     comp = False
 
-    inf_synset = wn.synsets('inférieur', lang=lang)[0]
-    sup_synset = wn.synsets('supérieur', lang=lang)[0]
-    try:
-        infosConstat = organInfos['autres constatations']
-        tokened_constat = word_tokenize(infosConstat)
-        stop_words = set(stopwords.words('french'))
-        isDefault = 'ne montre pas d’anomalie' in infosConstat
-        print(isDefault)
-        filtered_sentence = [w for w in tokened_constat if w not in stop_words]
-        for w in filtered_sentence:
-            try:
-                word_synset = wn.synsets(w, lang=lang)[0]
+    organsInf = False
+    organsSup = False
+    keys = list(organInfos.keys())
+    for i in range(0, len(keys)):
+        keys[i] = keys[i].lower()
 
-                if (word_synset == inf_synset):
-                    sup = isDefault
-                if (word_synset == sup_synset):
-                    inf = isDefault
-            except:
-                pass
-
-    except:
-        """print(Back.WHITE + Fore.BLACK)
-        print(list(organInfos.keys())) """
-        for key in list(organInfos.keys()):
-            for organe in organes_inf:
-                if (organe in key):
-                    inf = True
-            for organe in organes_sup:
-                if (organe in key):
-                    sup = True
-        if (inf & sup):
-            # examen complet
-            inf = False
-            sup = False
-    if (not (inf | sup)):
+    for key in keys:
+        for organe in organes_inf:
+            if (organe in key):
+                organsInf = True
+        for organe in organes_sup:
+            if (organe in key):
+                organsSup = True
+    inf = organsInf
+    sup = organsSup
+    if ((organsInf or organsSup) == False):
+        inf = False
+        sup = False
+        comp = False
+    if (organsInf and organsSup):
+        # examen complet
+        inf = False
+        sup = False
         comp = True
-    return (inf, sup, comp)
+
+    return (inf, sup, comp, flag)
 
 
 def _checkPresence(report, wordList, colorClass):

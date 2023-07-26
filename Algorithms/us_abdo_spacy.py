@@ -34,7 +34,7 @@ class UsAbdo:
     def __init__(self):
         self.nlp = spacy.load("fr_core_news_lg")
         self.matcher = Matcher(self.nlp.vocab)
-        patterns_sonoDesVaisseaux = [
+        """ patterns_sonoDesVaisseaux = [
             [{"lower": "doppler"}],
             [{"lower": "dopler"}],
             [{"lower": "sushépatique"}],
@@ -78,9 +78,9 @@ class UsAbdo:
             [{"lower": "intrarénale"}],
         ]
         patterns_digest_non_dedie = [
-            [{"lower": "tube"}, {"lower": "digestif"}, {"IS_SPACE": True, "OP": "?"}, {
-                "IS_PUNCT": True, "OP": "?"}, {"IS_SPACE": True, "OP": "?"}, {"IS_ALPHA": True, "OP": "*"},
-                {"lower": "("}, {"lower": "examen"}, {"lower": "non"}, {
+            [{"lower": "tube"}, {"lower": "digestif"},
+             {"OP": "*"},
+             {"lower": "("}, {"lower": "examen"}, {"lower": "non"}, {
                 "lower": "dédié"}, {"lower": ")"},
              ],]
         patterns_tube_digestif = [
@@ -110,6 +110,90 @@ class UsAbdo:
         ]
         patterns_autre_constatations = [
             [{"lower": "autres"}, {"lower": "constatations"},
+             ]
+        ] """
+        patterns_sonoDesVaisseaux = [
+            [{"lower": {"FUZZY1": "doppler"}}],
+            [{"lower": {"FUZZY1": "sushépatique"}}],
+            [{"lower": {"FUZZY1": "hépatopète"}}],
+            [{"lower": {"FUZZY1": "vascularisé"}}],
+            [{"lower": {"FUZZY1": "veine"}}],
+
+        ]
+
+        patterns_PostMictionnel = [
+            [{"lower": {"FUZZY1": "post-mictionnel"}}],
+            [{"lower": {"FUZZY1": "pré-mictionnel"}}],
+            [{"lower": {"FUZZY1": "mictionnel"}}],
+            [{"lower": {"FUZZY1": "miction"}}],
+        ]
+        patterns_tube_digestif = [
+            [{"lower": {"FUZZY1": "tube"}}, {"lower": {"FUZZY1": "digestif"}}
+             ]
+        ]
+
+        patterns_digest_non_dedie = [
+            [{"lower": {"FUZZY1": "tube"}}, {"lower": {"FUZZY1": "digestif"}}, {"IS_SPACE": True, "OP": "?"},
+                {"IS_PUNCT": True, "OP": "?"}, {"IS_SPACE": True,
+                                                "OP": "?"},  {"IS_ALPHA": True, "OP": "*"},
+                {"lower": "("}, {"lower": {"FUZZY1": "examen"}}, {"lower": {"FUZZY1": "non"}}, {
+                "lower": {"FUZZY1": "dédié"}}, {"lower": ")"},
+             ],]
+
+        patterns_partiesMolles = [
+            [{"lower": {"FUZZY1": "hernie"}}],
+            [{"lower": {"FUZZY1": "ligne"}}, {"lower": {"FUZZY1": "blanche"}}],
+            [{"lower": {"FUZZY1": "éventration"}}],
+            [{"lower": {"FUZZY1": "valsalva"}}],
+            [{"lower": {"FUZZY1": "inguinal"}}],
+
+        ]
+
+        patterns_renal = [
+            [{"lower": {"FUZZY1": "intraparenchymateux"}}],
+            [{"lower": {"FUZZY1": {"IN": ["vitesse", "pics"]}}},
+                {"lower": {"FUZZY1": "systolique"}}],
+            [{"lower": "systolique"}],
+            [{"lower": {"FUZZY1": "index"}}, {"lower": {"FUZZY1": "de"}}, {
+                "lower": {"FUZZY1": {"IN": ["résistance", "résistivité"]}}},],
+            [{"lower": {"FUZZY1": "analyse"}}, {
+                "lower": {"FUZZY1": "des"}}, {"lower": {"FUZZY1": "flux"}}],
+            [{"lower": {"FUZZY1": "hile"}}, {"lower": {"FUZZY1": "rénal"}}],
+            [{"lower": {"FUZZY1": "artère"}}, {"lower": {"FUZZY1": "rénale"}},
+                {"lower": {"FUZZY1": "hilaire"}}],
+            [{"lower": {"FUZZY1": "anastomose"}}],
+        ]
+
+        patterns_usSup = [
+            [{"lower": {"FUZZY1": "foie"}}],
+            [{"lower": {"FUZZY1": "rate"}}],
+            [{"lower": {"FUZZY1": "voies"}}, {"lower": {"FUZZY1": "biliaires"}}],
+            [{"lower": {"FUZZY1": "biliaire"}}],
+            [{"lower": {"FUZZY1": "pancréas"}}],
+
+
+        ]
+        patterns_usInf = [
+            [{"lower": {"FUZZY1": "organes"}}, {"lower": {"FUZZY1": "génitaux"}}],
+            [{"lower": {"FUZZY1": "vessie"}}],
+        ]
+
+        pattern_sup_pas_anomalie = [
+            [{"lower": {"FUZZY1": "abdomen"}}, {"lower": {"FUZZY1": "supérieur"}},
+             {"lower": {"FUZZY1": "ne"}}, {"lower": {"FUZZY1": "montre"}},
+             {"lower": {"FUZZY1": "pas"}}, {"lower": {"FUZZY1": "d’"}}, {
+                "lower": {"FUZZY1": "anomalie"}}
+             ]
+        ]
+        pattern_inf_pas_anomalie = [
+            [{"lower": {"FUZZY1": "abdomen"}}, {"lower": {"FUZZY1": "inférieur"}},
+             {"lower": {"FUZZY1": "ne"}}, {"lower": {"FUZZY1": "montre"}},
+             {"lower": {"FUZZY1": "pas"}}, {"lower": {"FUZZY1": "d’"}}, {
+                "lower": {"FUZZY1": "anomalie"}}
+             ]
+        ]
+        patterns_autre_constatations = [
+            [{"lower": {"FUZZY1": "autres"}}, {"lower": {"FUZZY1": "constatations"}},
              ]
         ]
         self.matcher.add("SONO_DES_VAISSEAUX", patterns_sonoDesVaisseaux)
@@ -152,12 +236,15 @@ class UsAbdo:
         doc = self.nlp(report)
         matches = self.matcher(doc)
 
+        # for token in doc:
+        #    print(token.text)
         # presence variables
         doppler = False
         miction = False
         part_molles = False
         art_renale = False
         tube_digestif = False
+
         us_inf = False
         us_sup = False
         autre_constat = False
@@ -191,6 +278,8 @@ class UsAbdo:
                 tube_digestif = True
             if string_id == "TUBE_DIGESTIF_NON_DEDIE":
                 tube_digestif = False
+
+            # print(string_id, doc[start:end])
 
         # span = doc[start: end]
         inf = False
@@ -274,3 +363,11 @@ class UsAbdo:
 
         ]
         return (report, self._facturation(infos_facturation))
+
+
+""" usAbdo = UsAbdo()
+text = "EchographieFoie   :   taille normale ; hyperéchogénicité diffuse du parenchyme avec visibilité réduite des segments dorsaux. Pas de lésion focale. Veine porte non évaluable.Voies biliaires   :   de calibre normal. Vésicule de parois fines sans calcul décelable.Pancréas   :   d'analyse limitée en raison d'interpositions de l'intestin.Rate   :   de taille normale, homogène. Reins   :   de morphologie normale, sans dilatation des cavités.Rétropéritoine   :   pas d’adénopathies ni de masse. Aorte de calibre normal.Tube digestif   :   sans anomalie grossière (examen non dédié).Péritoine   :   pas de liquide libre.Vessie   :   très peu remplie.Organes génitaux   :   non visualisés.Radiographies Silhouette cardiaque    :   sans élargissement, index cardio-thoracique dans la norme.Médiastin et hiles    :   sans image de masse. Port-a-Cath pectoral droit. Poumons   :   aération symétrique, pas d’infiltrat ni d’opacités. Lobe azygos.Plèvre    :   pas d’épanchement.Squelette    :   spondylose antérieure étagée thoracique moyenne.Autres   :   pas d’anomalie des parties molles. "
+text = text.replace(".", ". ")
+print(text)
+usAbdo.cotation(text)
+ """
